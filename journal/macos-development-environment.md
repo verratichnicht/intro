@@ -1,6 +1,6 @@
 ---
 date: 2019-05-18
-title: Die Kraft von Berührungen
+title: Touch me! — Ablauf in der Praxis
 author: Nichlas W. Andersen
 excerpt: Get up and running with a fresh macOS Catalina install
 
