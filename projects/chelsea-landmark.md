@@ -15,10 +15,6 @@ project_fg_color: ''
 
 ### **Und schön, dass Du hier bist!**
 
- 
-
-![](/uploads/br.JPG)
-
 Ich heiße Brian und arbeite als Sexualbegleiter in Wien und Umgebung. Ich biete hautnahe Abenteuer für volljährige Frauen (mit oder ohne Partner*in) mit körperlicher oder geistiger Beeinträchtigung an.
 
 Erst seit kurzem ist das Arbeitsfeld "Sexualassistenz" in Österreich als ein solches bekannt — das Bedürfnis nach Nähe und dem Ausleben sexueller Neugierde(n) gibt's aber schon viel länger. Wir haben alle Träume und Fantasien, mit dem Ausleben hakt es aber manchmal, leider.
