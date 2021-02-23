@@ -1,6 +1,6 @@
 ---
 date: 2019-06-04
-title: Arbeitsfeld Sexualbegleitung
+title: Infos rund um das Arbeitsfeld Sexualbegleitung
 author: Nichlas W. Andersen
 excerpt: Vue (pronounced /vjuː/, like view) is a progressive framework for building
   user interfaces.
