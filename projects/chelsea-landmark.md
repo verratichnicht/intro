@@ -3,7 +3,7 @@ date: 2019-05-16
 year: 2019
 title: Hi! Ich bin Brian
 category: Identity
-thumbnail: "/uploads/p1013673.JPG"
+thumbnail: ''
 categories:
 - photography
 - pink
