@@ -6,6 +6,8 @@ excerpt: Get up and running with Forestry CMS, a git-backed headless CMS with a 
   editing interface.
 
 ---
+![](/uploads/br.JPG)
+
 # **Hallo.**
 
 ### **Und schön, dass Du hier bist!**
