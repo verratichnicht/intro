@@ -6,20 +6,20 @@ excerpt: Get up and running with Forestry CMS, a git-backed headless CMS with a 
   editing interface.
 
 ---
-#### Use Forestry as a CMS for Gridsome
+# **Hallo.**
 
-[Forestry](https://forestry.io) is a git-based headless CMS that allows editorial teams to work on Jamstack sites.
+### **Und schön, dass Du hier bist!**
 
-It comes with a slick user interface that empowers editors to edit CommmonMark, YAML, and JSON files.
+Ich heiße Brian und arbeite als Sexualbegleiter in Wien und Umgebung. Ich biete hautnahe Abenteuer für volljährige Frauen (mit oder ohne Partner*in) mit körperlicher oder geistiger Beeinträchtigung an.
 
-Forestry UI was designed by **Nichlas W. Andersen**.
+Erst seit kurzem ist das Arbeitsfeld "Sexualassistenz" in Österreich als ein solches bekannt — das Bedürfnis nach Nähe und dem Ausleben sexueller Neugierde(n) gibt's aber schon viel länger. Wir haben alle Träume und Fantasien, mit dem Ausleben hakt es aber manchmal, leider.
 
-You can import this starter to Forestry and start editing and creating posts or projects right away.
+Mein Leben ist durch eine Vielzahl sexueller Erfahrungen geprägt und ich möchte Menschen, denen solche Erfahrungen aufgrund etwaiger Gegebenheiten nur wenig oder fast gar nicht zuteil werden, genau diese auch ermöglichen: Lustvolle Momente, je nach Bedarf!
 
-Forestry also comes with instant previews, for you to preview your content before publishing.
+Für mich ist Sexualität unweigerlich mit offener Kommunikation verbunden. Denn in der Realität funktioniert es nur duch Reden!
 
-When you save content in **Forestry**, it's committed back to your Git repository. If you link your repository to a service like **Netlify** or **Vercel**, on every push, your site will be deployed over to a CDN network.
+Ich habe alles gesehen. Und solange Intimität, Sex und Berührung "safe, sane and consent" - also sicher, gesund und im Einverständnis aller beteiligten Personen geschieht, werde ich Dir Deine Wünsche erfüllen.
 
-Enjoy the best development and user experience! 🚀
+Ich komme aus der Persönlichen Assistenz und kenne peinliche Situationen nur zu gut. Und das ist ganz normal, egal ob nackt oder angezogen! Ein respektvoller Umgang und ein Klima der Wertschätzung haben in meiner Arbeit höchste Priorität und Du wirst schnell merken, dass ich einer authentischen und ehrlichen Stimmung wegen Berge versetze. Garantiert!
 
-![](/uploads/ian-dooley-281897-unsplash.jpg)
+Freust du dich schon drauf?
