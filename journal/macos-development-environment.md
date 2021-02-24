@@ -1,6 +1,6 @@
 ---
 date: 2020-02-24
-title: Touch me! — Praktischer Ablauf von Sexualassistenz
+title: Touch me! — Praktischer Ablauf einer Sexualbegleitung
 author: Nichlas W. Andersen
 excerpt: Get up and running with a fresh macOS Catalina install
 
